@@ -4,7 +4,7 @@ Kaggle notebook for testing out Story Diffusion.
 
 <table>
   <tr>
-    <td><a href="https://www.kaggle.com/code/pogscafe/story-diffusion-webui-kaggle" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg" /></a></td>
+    <td><a href="https://www.kaggle.com/code/pogscafe/story-diffusion-kaggle" target="_blank"><img align="left" alt="Kaggle" title="Open in Kaggle" src="https://kaggle.com/static/images/open-in-kaggle.svg" /></a></td>
     <td>Kaggle notebook</td>
   </tr>
 </table>
