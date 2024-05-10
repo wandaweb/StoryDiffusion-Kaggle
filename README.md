@@ -10,7 +10,7 @@ Kaggle notebook for testing out Story Diffusion.
 </table>
 
 How-to video:  
-<a href="https://youtu.be/#"><img src="https://i3.ytimg.com/vi/#/maxresdefault.jpg" width=500) /></a>
+<a href="https://youtu.be/CLDDY5XGi8U"><img src="https://i3.ytimg.com/vi/CLDDY5XGi8U/maxresdefault.jpg" width=300) /></a>
 
 ---
 
